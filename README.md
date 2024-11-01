@@ -93,3 +93,11 @@ local attention ->
 
 autoregressive encoder decoder
 
+
+
+Action Plan :- Deadline Sunday 11/03
+
+Himanshu Hansaria
+    -> lyrics to image to video 
+Paveethran Swaminathan
+    -> how to find harmony in the music
