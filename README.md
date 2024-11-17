@@ -101,3 +101,16 @@ Himanshu Hansaria
     -> lyrics to image to video 
 Paveethran Swaminathan
     -> how to find harmony in the music
+
+
+
+
+alignment on the music harmony to the transitions in the video
+
+rap -> hook is on the melody -> energy -> 
+
+prompt engineering -> 
+
+concatenate the images 
+
+music + tone encoder ->  retrieval on image sets -> temporal sequence
